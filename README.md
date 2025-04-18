@@ -5,3 +5,8 @@ Sniping bot for new crypto coins
 
 For price and demo
 t.me/CryptoWeb3Scripts
+
+<br />
+
+Ethereum, Tron, Solana, BSC, Arbitrum, Avalanche, Polygon, Base, SUI, Optimism, Near, Cronos, Bitcoin, Aptos, TON, Cardano
+Crypto, Wallet, Coins, Sniping, Bot
